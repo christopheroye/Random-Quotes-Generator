@@ -1,24 +1,19 @@
-# README
+# Splurty - Random Quote Generator
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Simple application that generates random, well-known quotes submitted by users.
 
-Things you may want to cover:
+<img width="1438" alt="Screen Shot 2019-11-06 at 12 00 45 PM" src="https://user-images.githubusercontent.com/50840199/68324728-96495b00-008d-11ea-98d1-5c8c507ada98.png">
 
-* Ruby version
+## Languages and tools
 
-* System dependencies
+* Ruby on Rails
+* Sublime Text Editor
 
-* Configuration
 
-* Database creation
+## Using the app
 
-* Database initialization
+1. Click **Contribute** to add a new quote to the generator.
 
-* How to run the test suite
+<img width="496" alt="Screen Shot 2019-11-06 at 12 01 01 PM" src="https://user-images.githubusercontent.com/50840199/68324733-98131e80-008d-11ea-921f-09b9841f4c89.png">
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Each day time you access the app a random quote will be generated. If you don't feel inspired by the first quote that appears, click **This isn't enough, I need more** to view more quotes in the database.
