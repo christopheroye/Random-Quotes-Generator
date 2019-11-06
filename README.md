@@ -16,4 +16,4 @@ A Simple application that generates random, well-known quotes submitted by users
 
 <img width="496" alt="Screen Shot 2019-11-06 at 12 01 01 PM" src="https://user-images.githubusercontent.com/50840199/68324733-98131e80-008d-11ea-921f-09b9841f4c89.png">
 
-Each day time you access the app a random quote will be generated. If you don't feel inspired by the first quote that appears, click **This isn't enough, I need more** to view more quotes in the database.
+When accessing the app a random quote will be generated. If you don't feel inspired by the first quote that appears, click **This isn't enough, I need more** to view more quotes in the database.
